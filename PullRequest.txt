@@ -1,4 +1,5 @@
 testing
 hello
 world
+개강 싫어요
 종강 언제해요?
